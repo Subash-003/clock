@@ -1,0 +1,33 @@
+.wrapper {
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.column {
+  margin: 0 10px;
+}
+
+select {
+  font-size: 18px;
+  padding: 8px;
+}
+
+button {
+  font-size: 18px;
+  padding: 8px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
