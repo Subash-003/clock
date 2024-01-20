@@ -2,7 +2,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import './App.css';
 
 const AlarmClock = () => {
-  const [currentTime, setCurrentTime] = useState('');
+  const [currentTime, setCurrentTime] = useState('k');
   const [alarmTime, setAlarmTime] = useState('');
   const [isAlarmSet, setIsAlarmSet] = useState(false);
 
